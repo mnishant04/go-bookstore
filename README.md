@@ -1,2 +1,6 @@
 # go-bookstore
-Bookstore-MVC using CRUD operations
+Small BOOKSTORE project using Golang
+USED:-
+  MySQL
+  CRUD
+  Gorilla Mux

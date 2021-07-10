@@ -1,6 +1,5 @@
 # go-bookstore
-Small BOOKSTORE project using Golang
-USED:-
-  MySQL
-  CRUD
+Small BOOKSTORE project using Golang,
+  MySQL,
+  CRUD, and
   Gorilla Mux
